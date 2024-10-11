@@ -73,6 +73,3 @@
 
 <img src="Screenshots/gif-2.gif"/>
 
-## Live Server
-
-https://watsapp-analysis.herokuapp.com/
